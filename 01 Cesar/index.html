@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo Cesar</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+    <br>
+    <br>
+    <p class= "text">CIFRADO CÉSAR</p>
+    <p class="text1">Ingresa un texto</p>
+    <p class="text2">Resultado</p>
+    <textarea id="cadena" cols="30" rows="10" class = "cadena"></textarea>
+    <br>
+    <div class= "input">
+    <p><input type ="number" id="desplazamiento" class="input2"><input type="button" value="Cifrar" onclick="cifrar()" class = "input1" >
+        <input type="button" value="Descifrar" onclick="descifrar()"> </p>
+    </div>
+    <p class="des">Desplazamiento</p>
+    <div id="resultado" class="resultado" >
+
+    </div>
+
+    <script src="cesar.js" ></script>
+</body>
+</html>

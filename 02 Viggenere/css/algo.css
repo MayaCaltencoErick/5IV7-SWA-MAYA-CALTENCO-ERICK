@@ -1,0 +1,107 @@
+*{
+
+    background-color:#E7C366;
+    font-size: 20px;
+    font-family: 'Roboto';
+}
+.resultado{
+    position: absolute;
+width: 542px;
+height: 119px;
+left: 60%;
+top: 400px;
+box-align: right;
+background: #fff;
+align-content: center;
+text-align: center;
+}
+.text{
+    position:absolute;
+width: 800px;
+height: 80px;
+left: 700px;;
+top: 100px;
+
+font-family: Russo One;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
+}
+.text1{
+    position:absolute;
+width: 800px;
+height: 80px;
+left: 500px;;
+top: 270px;
+
+font-family: Russo One;
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 84px;
+
+color: #000000;
+}
+.text2{
+    position:absolute;
+width: 800px;
+height: 80px;
+left: 1300px;;
+top: 270px;
+
+font-family: Russo One;
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 84px;
+
+color: #000000;
+}
+.cadena{
+    position: absolute;
+    width: 542px;
+    height: 110px;
+    left: 20%;
+    top: 400px;
+    box-align: right;
+    background: #fff;
+    align-content: center;
+    text-align: center;   
+}
+
+.input{
+    position:absolute;
+top: 550px;
+left:40%;
+width:500px;
+}
+.input1{
+    position:absolute;
+
+right:520px;
+}
+.input2{
+    position:absolute;
+
+right:600px;
+background: #fff;
+}
+
+.des{
+    position:absolute;
+    width: 500px;
+    height: 40px;
+    left: 500px;;
+    top: 600px;
+    
+    font-family: Russo One;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 84px;
+    
+    color: #000000; 
+}
