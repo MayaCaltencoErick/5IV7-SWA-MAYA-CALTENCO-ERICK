@@ -1,0 +1,14 @@
+.mensaje{
+    position: absolute;
+        background-color: #8C4D6B;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin: 10rem;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}

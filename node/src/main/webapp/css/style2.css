@@ -1,0 +1,69 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.iniciar{
+    position: absolute;
+    width: 672px;
+    height: 317px;
+    left: 0px;
+    top: 0px;
+    margin: 10rem;
+align-items: center;
+text-align: center;
+background: #2F2F2F;
+border-radius: 51px;
+}
+
+.usu, .pass{
+    border-radius: 1rem;
+}
+
+.text1, .text2{
+    color: white;
+    font-size: 20px;
+}
+
+.tit{
+    font-family: Jockey One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+line-height: 50px;
+text-align: center;
+color: white;
+}
+
+.acceder{
+    background-color: orange;
+    padding: 0.8rem;
+border: none;
+border-radius: 1rem;
+}
+
+header{
+    
+    width: 100%;
+    height: 60px;
+    box-shadow: 1px 1px 5px #000;
+    align-items: center;
+    text-align: center;
+    background-color: #2F2F2F;
+    font-family: Jockey One;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 67px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.consultar{
+    width : 40%;
+    color: white;
+    height: 40%;
+}
